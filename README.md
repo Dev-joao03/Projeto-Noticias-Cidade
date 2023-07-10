@@ -5,21 +5,24 @@ A proposta deste projeto é aplicar na prática os conhecimentos adquiridos dura
 <h2>Home</h2>
 
 
-
-![Home](https://github.com/Dev-joao03/Projeto-Noticias-Cidade/assets/111032225/96d70d42-74f3-4138-897c-44994cb4f227)
-
-
-
-<h2>Brasil</h2>
+![Home](https://github.com/Dev-joao03/Projeto-Noticias-Cidade/assets/111032225/0674938c-c614-46c1-9358-4822de342cb7)
 
 
 
-![brasil](https://github.com/Dev-joao03/Projeto-Noticias-Cidade/assets/111032225/76fe00dc-5e34-4b2a-966f-69c7275d7eed)
+
+
+<h2>Página Brasil</h2>
+
+
+![brasil](https://github.com/Dev-joao03/Projeto-Noticias-Cidade/assets/111032225/c8d1e925-b41b-499e-b1a6-37faecb34ac3)
 
 
 
-<h2>Fotos</h2>
+
+
+<h2>Página Internacional</h2>
 
 
 
-![fotos](https://github.com/Dev-joao03/Projeto-Noticias-Cidade/assets/111032225/96f22da6-ec20-4b2a-b4db-3c880ac63d0d)
+![internacional](https://github.com/Dev-joao03/Projeto-Noticias-Cidade/assets/111032225/4ac3cfdc-7895-4808-9815-12d7c198c6aa)
+
